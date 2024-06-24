@@ -550,7 +550,7 @@ msgid ""
 "that your minions are dominated by the bone idle!"
 msgstr ""
 "Haec terra aggressione et celeritate eget, Custos. Infelix igitur est ut os "
-"otiosum satellites tuas dominetur!"
+"otiosum creaturas tuas dominetur!"
 
 #: guitext:68
 msgctxt "In-game message"
@@ -575,7 +575,7 @@ msgid ""
 "Are you interested in Entomology, Keeper? Insects are the only minions you "
 "will attract; down in the slime where you belong!"
 msgstr ""
-"Agiturne tua in entomologia, Custos? Insecta solae satellites sunt quas "
+"Agiturne tua in entomologia, Custos? Insecta solae creaturae sunt quas "
 "attrahes, ex limo ubi ines!"
 
 #: guitext:72
