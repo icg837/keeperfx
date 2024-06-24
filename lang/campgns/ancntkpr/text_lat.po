@@ -16,13 +16,11 @@
 #      (at your option) any later version.
 #
 # *****************************************************************************
-msgid ""
-msgstr ""
 "Project-Id-Version: GUI Strings for KeeperFX\n"
 "Report-Msgid-Bugs-To: https://code.google.com/p/keeperfx/issues/list\n"
-"POT-Creation-Date: 2024-06-24 00:00+0100\n"
+"POT-Creation-Date: 2012-09-02 01:12+0200\n"
 "PO-Revision-Date: 2024-06-24 00:00+0100\n"
-"Last-Translator: Ignacio Carrera González <icg837@gmail.com>\n"
+"Last-Translator: \n"
 "Language-Team: KeeperFX Team <code.google.com>\n"
 "Language: la_LA\n"
 "MIME-Version: 1.0\n"
